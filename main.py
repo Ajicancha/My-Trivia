@@ -28,7 +28,7 @@ else:
   print("\nLet's start then! :)\n"+RESET)
 #input("\nPress start to continue: ")
 print(YELLOW+"We'll start in:")
-for i in range (0,6,1):
+for i in range (1,6,1):
   print(i)
   time.sleep(1)
 
