@@ -32,6 +32,7 @@ for i in range (0,6,1):
   print(i)
   time.sleep(1)
 
+#inicio
 iniciar=True
 intentos=0
 ########################################################
